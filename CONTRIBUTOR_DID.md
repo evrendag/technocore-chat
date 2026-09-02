@@ -2,8 +2,10 @@
 
 This fork contains Technocore/FLOP ecosystem contributions associated with the following local `did:key` identity.
 
-**DID:** `did:key:z6MkjyK4JZfEt8C3sjNkr9iiJzKB3hJM2Aojs2AMuEu61QWD`
+**DID:** `did:key:z6MkmbnNEpMgpLispBxL4N429m6Qao33vPqiiGjmVKL1LHTu`
 
-**Contribution record:** https://technocore.chat/kv/contrib/af494a86fa4de7bc
+**Technocore room:** `d-acemidoktor`
 
-The private key is not stored in this repository.
+**Verified contribution record:** `technocore` room, sequence `3365800`
+
+The private key and encrypted identity backup are not stored in this repository.
